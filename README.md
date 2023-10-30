@@ -1,6 +1,6 @@
 # Playground Start
 
-This is the starter code for the playground project we use in part 2 of my React course. 
+Code for the playground project we use in TS react pratices
 
 ## Getting Started
 
@@ -19,4 +19,3 @@ This repository belongs to part 2 of my React course covering intermediate-level
 - Managing application state with Zustand
 - Routing with React Router 
 
-You can find the course at https://codewithmosh.com
